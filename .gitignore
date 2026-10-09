@@ -1,0 +1,10 @@
+# Dataset (not distributed)
+data/
+
+# Saved models
+*.keras
+*.h5
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
